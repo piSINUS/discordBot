@@ -3,4 +3,5 @@ settings = {
     'bot': 'namebot',
     'id': "id",
     'prefix': '!'
+
 }
